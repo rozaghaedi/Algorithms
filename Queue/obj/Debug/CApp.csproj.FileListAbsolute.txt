@@ -1,0 +1,32 @@
+C:\Users\hp\source\repos\CApp\bin\Debug\CApp.exe.config
+C:\Users\hp\source\repos\CApp\bin\Debug\CApp.exe
+C:\Users\hp\source\repos\CApp\bin\Debug\CApp.pdb
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.Properties.Resources.resources
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.exe
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.pdb
+C:\Users\hp\source\repos\CApp\obj\Debug\CApp.Form1.resources
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\bin\Debug\CApp.exe.config
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\bin\Debug\CApp.exe
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\bin\Debug\CApp.pdb
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.Form1.resources
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.Properties.Resources.resources
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.csproj.GenerateResource.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.exe
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main\CApp\obj\Debug\CApp.pdb
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\bin\Debug\CApp.exe.config
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\bin\Debug\CApp.exe
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\bin\Debug\CApp.pdb
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.Form1.resources
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.Properties.Resources.resources
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.csproj.GenerateResource.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.exe
+C:\Users\23624225\OneDrive - MMU\Algorithm\Exc1-main - Copy\CApp\obj\Debug\CApp.pdb

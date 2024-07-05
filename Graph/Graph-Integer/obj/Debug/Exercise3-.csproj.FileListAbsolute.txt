@@ -1,0 +1,16 @@
+O:\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.AssemblyReference.cache
+O:\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.SuggestedBindingRedirects.cache
+O:\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.CoreCompileInputs.cache
+O:\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.exe.config
+O:\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.exe
+O:\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.pdb
+O:\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.exe
+O:\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.pdb
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.exe.config
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.exe
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\bin\Debug\Exercise3-.pdb
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.AssemblyReference.cache
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.SuggestedBindingRedirects.cache
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.csproj.CoreCompileInputs.cache
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.exe
+C:\Users\23624225\OneDrive - MMU\Source\repos\Exercise3-\Exercise3-\obj\Debug\Exercise3-.pdb
